@@ -2,6 +2,6 @@
 
 int main() {
  
-  printf("With proper grammar, art thou writ.\n");
+  printf("with proper grammar, but the outcome is a piece of art,");
   return 0;
 }

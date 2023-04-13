@@ -87,11 +87,11 @@ int main(int argc, char *argv[])
 		if (result[i])
 			a = 1;
 		if (a)
-			 _putchar(result[i] + '0');
+			_putchar(result[i] + '0');
 	}
 	if (!a)
 		_putchar('0');
-	 _putchar('\n');
-	 free(result);
-	 return (0);
+	_putchar('\n');
+	free(result);
+	return (0);
 }
